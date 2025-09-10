@@ -1,0 +1,534 @@
+original_index	identifier	track_type	strand	strand_pair	scale	gtex_tissue	clip_soft	sum_stat	description
+0	EFO:0001098	rna	.	0	0.3		384	sum_sqrt	RNA:C2C12
+1	EFO:0002034	rna	.	1	0.3		384	sum_sqrt	RNA:G1E
+2	EFO:0002055	rna	.	2	0.3		384	sum_sqrt	RNA:G1E-ER4 treated with 10 nM 17B-estradiol for 24 hours
+3	EFO:0002816	rna	.	3	0.3		384	sum_sqrt	RNA:C3H10T1/2
+4	EFO:0003971	rna	.	4	0.3		384	sum_sqrt	RNA:MEL MEL
+5	EFO:0005233	rna	.	5	0.3		384	sum_sqrt	RNA:B10.H-2aH-4bp/Wts CH12.LX
+6	EFO:0005481	rna	.	6	0.3		384	sum_sqrt	RNA:Patski Patski
+7	CL:0000187	rna	.	7	0.3		384	sum_sqrt	RNA:myocyte originated from C2C12
+8	NTR:0000646	rna	.	8	0.3		384	sum_sqrt	RNA:B6NCrl left cerebral cortex tissue adult (6 months)
+9	UBERON:0000160	rna	.	9	0.3		384	sum_sqrt	RNA:B6NCrl intestine tissue postnatal (0 days)
+10	UBERON:0000945	rna	.	10	0.3		384	sum_sqrt	RNA:B6NCrl stomach tissue postnatal (0 days)
+11	UBERON:0000948	rna	.	11	0.3		384	sum_sqrt	RNA:B6NCrl heart tissue embryo (16.5 days)
+12	UBERON:0001049	rna	.	12	0.3		384	sum_sqrt	RNA:B6NCrl neural tube tissue embryo (15.5 days)
+13	UBERON:0001134	rna	.	13	0.3		384	sum_sqrt	RNA:B6NCrl skeletal muscle tissue tissue postnatal (0 days)
+14	UBERON:0001255	rna	.	14	0.3		384	sum_sqrt	RNA:B6NCrl urinary bladder tissue postnatal (0 days)
+15	UBERON:0001890	rna	.	15	0.3		384	sum_sqrt	RNA:B6NCrl forebrain tissue embryo (16.5 days)
+16	UBERON:0001891	rna	.	16	0.3		384	sum_sqrt	RNA:B6NCrl midbrain tissue embryo (11.5 days)
+17	UBERON:0002028	rna	.	17	0.3		384	sum_sqrt	RNA:B6NCrl hindbrain tissue postnatal (0 days)
+18	UBERON:0002048	rna	.	18	0.3		384	sum_sqrt	RNA:B6NCrl lung tissue embryo (14.5 days)
+19	UBERON:0002101	rna	.	19	0.3		384	sum_sqrt	RNA:B6NCrl limb tissue embryo (14.5 days)
+20	UBERON:0002106	rna	.	20	0.3		384	sum_sqrt	RNA:B6NCrl spleen tissue postnatal (0 days)
+21	UBERON:0002107	rna	.	21	0.3		384	sum_sqrt	RNA:B6NCrl liver tissue postnatal (0 days)
+22	UBERON:0002113	rna	.	22	0.3		384	sum_sqrt	RNA:B6NCrl kidney tissue embryo (15.5 days)
+23	UBERON:0002305	rna	.	23	0.3		384	sum_sqrt	RNA:B6NCrl layer of hippocampus tissue adult (6 months)
+24	UBERON:0002369	rna	.	24	0.3		384	sum_sqrt	RNA:B6NCrl adrenal gland tissue postnatal (0 days)
+25	UBERON:0002370	rna	.	25	0.3		384	sum_sqrt	RNA:B6NCrl thymus tissue postnatal (0 days)
+26	UBERON:0012314	rna	.	26	0.3		384	sum_sqrt	RNA:B6NCrl embryonic facial prominence tissue embryo (13.5 days)
+27	EFO:0002034+	rna	+	28	0.3		384	sum_sqrt	RNA:G1E
+28	EFO:0002034-	rna	-	27	0.3		384	sum_sqrt	RNA:G1E
+29	EFO:0002055+	rna	+	30	0.3		384	sum_sqrt	RNA:G1E-ER4 treated with 10 nM 17B-estradiol for 14 hours
+30	EFO:0002055-	rna	-	29	0.3		384	sum_sqrt	RNA:G1E-ER4 treated with 10 nM 17B-estradiol for 14 hours
+31	CL:0000837+	rna	+	32	0.3		384	sum_sqrt	RNA:BALB/cJ hematopoietic multipotent progenitor cell
+32	CL:0000837-	rna	-	31	0.3		384	sum_sqrt	RNA:BALB/cJ hematopoietic multipotent progenitor cell
+33	CL:0000050+	rna	+	34	0.3		384	sum_sqrt	RNA:C57BL/6J megakaryocyte-erythroid progenitor cell female adult (5 weeks)
+34	CL:0000050-	rna	-	33	0.3		384	sum_sqrt	RNA:C57BL/6J megakaryocyte-erythroid progenitor cell female adult (5 weeks)
+35	CL:0000556+	rna	+	36	0.3		384	sum_sqrt	RNA:megakaryocyte embryo (14.5 days)
+36	CL:0000556-	rna	-	35	0.3		384	sum_sqrt	RNA:megakaryocyte embryo (14.5 days)
+37	CL:0000765+	rna	+	38	0.3		384	sum_sqrt	RNA:erythroblast embryo (14.5 days)
+38	CL:0000765-	rna	-	37	0.3		384	sum_sqrt	RNA:erythroblast embryo (14.5 days)
+39	NTR:0000714+	rna	+	40	0.3		384	sum_sqrt	RNA:BALB/cJ leukemia stem cell adult (10-12 weeks)
+40	NTR:0000714-	rna	-	39	0.3		384	sum_sqrt	RNA:BALB/cJ leukemia stem cell adult (10-12 weeks)
+41	UBERON:0000059+	rna	+	42	0.3		384	sum_sqrt	RNA:C57BL/6J large intestine tissue adult (8 weeks)
+42	UBERON:0000059-	rna	-	41	0.3		384	sum_sqrt	RNA:C57BL/6J large intestine tissue adult (8 weeks)
+43	UBERON:0000473+	rna	+	44	0.3		384	sum_sqrt	RNA:C57BL/6J testis tissue male adult (8 weeks)
+44	UBERON:0000473-	rna	-	43	0.3		384	sum_sqrt	RNA:C57BL/6J testis tissue male adult (8 weeks)
+45	UBERON:0000945+	rna	+	46	0.3		384	sum_sqrt	RNA:C57BL/6J stomach tissue adult (8 weeks)
+46	UBERON:0000945-	rna	-	45	0.3		384	sum_sqrt	RNA:C57BL/6J stomach tissue adult (8 weeks)
+47	UBERON:0000948+	rna	+	48	0.3		384	sum_sqrt	RNA:C57BL/6J heart tissue adult (8 weeks)
+48	UBERON:0000948-	rna	-	47	0.3		384	sum_sqrt	RNA:C57BL/6J heart tissue adult (8 weeks)
+49	UBERON:0000955+	rna	+	50	0.3		384	sum_sqrt	RNA:C57BL/6J brain tissue embryo (14.5 days)
+50	UBERON:0000955-	rna	-	49	0.3		384	sum_sqrt	RNA:C57BL/6J brain tissue embryo (14.5 days)
+51	UBERON:0000992+	rna	+	52	0.3		384	sum_sqrt	RNA:C57BL/6J ovary tissue female adult (8 weeks)
+52	UBERON:0000992-	rna	-	51	0.3		384	sum_sqrt	RNA:C57BL/6J ovary tissue female adult (8 weeks)
+53	UBERON:0001013+	rna	+	54	0.3		384	sum_sqrt	RNA:C57BL/6J adipose tissue tissue male adult (10 weeks)
+54	UBERON:0001013-	rna	-	53	0.3		384	sum_sqrt	RNA:C57BL/6J adipose tissue tissue male adult (10 weeks)
+55	UBERON:0001017+	rna	+	56	0.3		384	sum_sqrt	RNA:C57BL/6J central nervous system tissue embryo (11.5 days)
+56	UBERON:0001017-	rna	-	55	0.3		384	sum_sqrt	RNA:C57BL/6J central nervous system tissue embryo (11.5 days)
+57	UBERON:0001155+	rna	+	58	0.3		384	sum_sqrt	RNA:C57BL/6J colon tissue adult (8 weeks)
+58	UBERON:0001155-	rna	-	57	0.3		384	sum_sqrt	RNA:C57BL/6J colon tissue adult (8 weeks)
+59	UBERON:0001159+	rna	+	60	0.3		384	sum_sqrt	RNA:C57BL/6J sigmoid colon tissue female adult (10 weeks)
+60	UBERON:0001159-	rna	-	59	0.3		384	sum_sqrt	RNA:C57BL/6J sigmoid colon tissue female adult (10 weeks)
+61	UBERON:0001255+	rna	+	62	0.3		384	sum_sqrt	RNA:C57BL/6J urinary bladder tissue adult (8 weeks)
+62	UBERON:0001255-	rna	-	61	0.3		384	sum_sqrt	RNA:C57BL/6J urinary bladder tissue adult (8 weeks)
+63	UBERON:0001264+	rna	+	64	0.3		384	sum_sqrt	RNA:C57BL/6J pancreas tissue female adult (10 weeks)
+64	UBERON:0001264-	rna	-	63	0.3		384	sum_sqrt	RNA:C57BL/6J pancreas tissue female adult (10 weeks)
+65	UBERON:0001870+	rna	+	66	0.3		384	sum_sqrt	RNA:C57BL/6J frontal cortex tissue adult (8 weeks)
+66	UBERON:0001870-	rna	-	65	0.3		384	sum_sqrt	RNA:C57BL/6J frontal cortex tissue adult (8 weeks)
+67	UBERON:0001911+	rna	+	68	0.3		384	sum_sqrt	RNA:C57BL/6J mammary gland tissue adult (8 weeks)
+68	UBERON:0001911-	rna	-	67	0.3		384	sum_sqrt	RNA:C57BL/6J mammary gland tissue adult (8 weeks)
+69	UBERON:0001987+	rna	+	70	0.3		384	sum_sqrt	RNA:C57BL/6J placenta tissue adult (8 weeks)
+70	UBERON:0001987-	rna	-	69	0.3		384	sum_sqrt	RNA:C57BL/6J placenta tissue adult (8 weeks)
+71	UBERON:0002037+	rna	+	72	0.3		384	sum_sqrt	RNA:C57BL/6J cerebellum tissue adult (8 weeks)
+72	UBERON:0002037-	rna	-	71	0.3		384	sum_sqrt	RNA:C57BL/6J cerebellum tissue adult (8 weeks)
+73	UBERON:0002048+	rna	+	74	0.3		384	sum_sqrt	RNA:C57BL/6J lung tissue adult (8 weeks)
+74	UBERON:0002048-	rna	-	73	0.3		384	sum_sqrt	RNA:C57BL/6J lung tissue adult (8 weeks)
+75	UBERON:0002101+	rna	+	76	0.3		384	sum_sqrt	RNA:C57BL/6J limb tissue embryo (14.5 days)
+76	UBERON:0002101-	rna	-	75	0.3		384	sum_sqrt	RNA:C57BL/6J limb tissue embryo (14.5 days)
+77	UBERON:0002106+	rna	+	78	0.3		384	sum_sqrt	RNA:C57BL/6J spleen tissue adult (8 weeks)
+78	UBERON:0002106-	rna	-	77	0.3		384	sum_sqrt	RNA:C57BL/6J spleen tissue adult (8 weeks)
+79	UBERON:0002107+	rna	+	80	0.3		384	sum_sqrt	RNA:C57BL/6J liver tissue adult (8 weeks)
+80	UBERON:0002107-	rna	-	79	0.3		384	sum_sqrt	RNA:C57BL/6J liver tissue adult (8 weeks)
+81	UBERON:0002108+	rna	+	82	0.3		384	sum_sqrt	RNA:C57BL/6J small intestine tissue adult (8 weeks)
+82	UBERON:0002108-	rna	-	81	0.3		384	sum_sqrt	RNA:C57BL/6J small intestine tissue adult (8 weeks)
+83	UBERON:0002113+	rna	+	84	0.3		384	sum_sqrt	RNA:C57BL/6J kidney tissue adult (8 weeks)
+84	UBERON:0002113-	rna	-	83	0.3		384	sum_sqrt	RNA:C57BL/6J kidney tissue adult (8 weeks)
+85	UBERON:0002114+	rna	+	86	0.3		384	sum_sqrt	RNA:C57BL/6J duodenum tissue adult (8 weeks)
+86	UBERON:0002114-	rna	-	85	0.3		384	sum_sqrt	RNA:C57BL/6J duodenum tissue adult (8 weeks)
+87	UBERON:0002190+	rna	+	88	0.3		384	sum_sqrt	RNA:C57BL/6J subcutaneous adipose tissue tissue adult (8 weeks)
+88	UBERON:0002190-	rna	-	87	0.3		384	sum_sqrt	RNA:C57BL/6J subcutaneous adipose tissue tissue adult (8 weeks)
+89	UBERON:0002369+	rna	+	90	0.3		384	sum_sqrt	RNA:C57BL/6J adrenal gland tissue adult (8 weeks)
+90	UBERON:0002369-	rna	-	89	0.3		384	sum_sqrt	RNA:C57BL/6J adrenal gland tissue adult (8 weeks)
+91	UBERON:0002370+	rna	+	92	0.3		384	sum_sqrt	RNA:C57BL/6J thymus tissue adult (8 weeks)
+92	UBERON:0002370-	rna	-	91	0.3		384	sum_sqrt	RNA:C57BL/6J thymus tissue adult (8 weeks)
+93	UBERON:0003428+	rna	+	94	0.3		384	sum_sqrt	RNA:C57BL/6J gonadal fat pad tissue adult (8 weeks)
+94	UBERON:0003428-	rna	-	93	0.3		384	sum_sqrt	RNA:C57BL/6J gonadal fat pad tissue adult (8 weeks)
+95	UBERON:0005343+	rna	+	96	0.3		384	sum_sqrt	RNA:C57BL/6J cortical plate tissue adult (8 weeks)
+96	UBERON:0005343-	rna	-	95	0.3		384	sum_sqrt	RNA:C57BL/6J cortical plate tissue adult (8 weeks)
+97	EFO:0002034+	rna	+	98	0.3		384	sum_sqrt	RNA:C57BL/6J G1E
+98	EFO:0002034-	rna	-	97	0.3		384	sum_sqrt	RNA:C57BL/6J G1E
+99	EFO:0002055+	rna	+	100	0.3		384	sum_sqrt	RNA:C57BL/6J G1E-ER4 treated with 10 nM 17B-estradiol for 24 hours
+100	EFO:0002055-	rna	-	99	0.3		384	sum_sqrt	RNA:C57BL/6J G1E-ER4 treated with 10 nM 17B-estradiol for 24 hours
+101	EFO:0003971+	rna	+	102	0.3		384	sum_sqrt	RNA:MEL MEL
+102	EFO:0003971-	rna	-	101	0.3		384	sum_sqrt	RNA:MEL MEL
+103	EFO:0005233+	rna	+	104	0.3		384	sum_sqrt	RNA:B10.H-2aH-4bp/Wts CH12.LX
+104	EFO:0005233-	rna	-	103	0.3		384	sum_sqrt	RNA:B10.H-2aH-4bp/Wts CH12.LX
+105	EFO:0007075+	rna	+	106	0.3		384	sum_sqrt	RNA:129/Ola ES-E14
+106	EFO:0007075-	rna	-	105	0.3		384	sum_sqrt	RNA:129/Ola ES-E14
+107	CL:0000037+	rna	+	108	0.3		384	sum_sqrt	RNA:C57BL/6J hematopoietic stem cell male adult (5-6 weeks)
+108	CL:0000037-	rna	-	107	0.3		384	sum_sqrt	RNA:C57BL/6J hematopoietic stem cell male adult (5-6 weeks)
+109	CL:0000038+	rna	+	110	0.3		384	sum_sqrt	RNA:C57BL/6J erythroid progenitor cell male adult (5-6 weeks)
+110	CL:0000038-	rna	-	109	0.3		384	sum_sqrt	RNA:C57BL/6J erythroid progenitor cell male adult (5-6 weeks)
+111	CL:0000049+	rna	+	112	0.3		384	sum_sqrt	RNA:C57BL/6J common myeloid progenitor male adult (5-6 weeks)
+112	CL:0000049-	rna	-	111	0.3		384	sum_sqrt	RNA:C57BL/6J common myeloid progenitor male adult (5-6 weeks)
+113	CL:0000050+	rna	+	114	0.3		384	sum_sqrt	RNA:C57BL/6J megakaryocyte-erythroid progenitor cell male adult (5-6 weeks)
+114	CL:0000050-	rna	-	113	0.3		384	sum_sqrt	RNA:C57BL/6J megakaryocyte-erythroid progenitor cell male adult (5-6 weeks)
+115	CL:0000553+	rna	+	116	0.3		384	sum_sqrt	RNA:C57BL/6J megakaryocyte progenitor cell male adult (5-6 weeks)
+116	CL:0000553-	rna	-	115	0.3		384	sum_sqrt	RNA:C57BL/6J megakaryocyte progenitor cell male adult (5-6 weeks)
+117	CL:0000556+	rna	+	118	0.3		384	sum_sqrt	RNA:C57BL/6J megakaryocyte male adult (5-6 weeks)
+118	CL:0000556-	rna	-	117	0.3		384	sum_sqrt	RNA:C57BL/6J megakaryocyte male adult (5-6 weeks)
+119	CL:0000557+	rna	+	120	0.3		384	sum_sqrt	RNA:C57BL/6J granulocyte monocyte progenitor cell male adult (5-6 weeks)
+120	CL:0000557-	rna	-	119	0.3		384	sum_sqrt	RNA:C57BL/6J granulocyte monocyte progenitor cell male adult (5-6 weeks)
+121	CL:0000576+	rna	+	122	0.3		384	sum_sqrt	RNA:C57BL/6J monocyte adult (5-6 weeks)
+122	CL:0000576-	rna	-	121	0.3		384	sum_sqrt	RNA:C57BL/6J monocyte adult (5-6 weeks)
+123	CL:0000765+	rna	+	124	0.3		384	sum_sqrt	RNA:C57BL/6J erythroblast male adult (5-6 weeks)
+124	CL:0000765-	rna	-	123	0.3		384	sum_sqrt	RNA:C57BL/6J erythroblast male adult (5-6 weeks)
+125	CL:0000775+	rna	+	126	0.3		384	sum_sqrt	RNA:C57BL/6J neutrophil adult (5-6 weeks)
+126	CL:0000775-	rna	-	125	0.3		384	sum_sqrt	RNA:C57BL/6J neutrophil adult (5-6 weeks)
+127	NTR:0000646+	rna	+	128	0.3		384	sum_sqrt	RNA:B6CASTF1/J left cerebral cortex tissue female (2 months)
+128	NTR:0000646-	rna	-	127	0.3		384	sum_sqrt	RNA:B6CASTF1/J left cerebral cortex tissue female (2 months)
+129	UBERON:0000948+	rna	+	130	0.3		384	sum_sqrt	RNA:B6NTac;B6NCrl/Lap heart tissue postnatal (0 days)
+130	UBERON:0000948-	rna	-	129	0.3		384	sum_sqrt	RNA:B6NTac;B6NCrl/Lap heart tissue postnatal (0 days)
+131	UBERON:0001388+	rna	+	132	0.3		384	sum_sqrt	RNA:5xFAD/CAST gastrocnemius tissue male postnatal (8-10 months)
+132	UBERON:0001388-	rna	-	131	0.3		384	sum_sqrt	RNA:5xFAD/CAST gastrocnemius tissue male postnatal (8-10 months)
+133	UBERON:0001890+	rna	+	134	0.3		384	sum_sqrt	RNA:B6NTac;B6NCrl/Lap forebrain tissue postnatal (0 days)
+134	UBERON:0001890-	rna	-	133	0.3		384	sum_sqrt	RNA:B6NTac;B6NCrl/Lap forebrain tissue postnatal (0 days)
+135	UBERON:0001891+	rna	+	136	0.3		384	sum_sqrt	RNA:B6NTac;B6NCrl/Lap midbrain tissue postnatal (0 days)
+136	UBERON:0001891-	rna	-	135	0.3		384	sum_sqrt	RNA:B6NTac;B6NCrl/Lap midbrain tissue postnatal (0 days)
+137	UBERON:0002028+	rna	+	138	0.3		384	sum_sqrt	RNA:B6NTac;B6NCrl/Lap hindbrain tissue postnatal (0 days)
+138	UBERON:0002028-	rna	-	137	0.3		384	sum_sqrt	RNA:B6NTac;B6NCrl/Lap hindbrain tissue postnatal (0 days)
+139	UBERON:0002107+	rna	+	140	0.3		384	sum_sqrt	RNA:C57BL/6J liver tissue adult (8 weeks)
+140	UBERON:0002107-	rna	-	139	0.3		384	sum_sqrt	RNA:C57BL/6J liver tissue adult (8 weeks)
+141	UBERON:0002305+	rna	+	142	0.3		384	sum_sqrt	RNA:B6CASTF1/J layer of hippocampus tissue female (14 days)
+142	UBERON:0002305-	rna	-	141	0.3		384	sum_sqrt	RNA:B6CASTF1/J layer of hippocampus tissue female (14 days)
+143	UBERON:0002369+	rna	+	144	0.3		384	sum_sqrt	RNA:B6CASTF1/J adrenal gland tissue male (2 months)
+144	UBERON:0002369-	rna	-	143	0.3		384	sum_sqrt	RNA:B6CASTF1/J adrenal gland tissue male (2 months)
+0	ENCFF866ZTV	dnase	.	0	2.0		32	mean	DNASE:B6D2F1/J 416B
+1	ENCFF695LHM	dnase	.	1	2.0		32	mean	DNASE:BALB/cAnN A20
+2	ENCFF079SPZ	dnase	.	2	2.0		32	mean	DNASE:C57BL/6 B cell male adult (8 weeks)
+3	ENCFF798VSP	dnase	.	3	2.0		32	mean	DNASE:C57BL/6 splenic B cell male adult (8 weeks)
+4	ENCFF474GND	dnase	.	4	2.0		32	mean	DNASE:C57BL/6 cerebellum male adult (8 weeks)
+5	ENCFF395AJZ	dnase	.	5	2.0		32	mean	DNASE:C57BL/6 telencephalon male adult (8 weeks)
+6	ENCFF990TBH	dnase	.	6	2.0		32	mean	DNASE:CD-1 c-Kit-negative CD71-positive TER-119-positive erythroid progenitor cells male embryo (14.5 days)
+7	ENCFF443PWY	dnase	.	7	2.0		32	mean	DNASE:CD-1 c-Kit-positive CD71-negative TER-119-negative erythroid progenitor cells male embryo (14.5 days)
+8	ENCFF680ZTZ	dnase	.	8	2.0		32	mean	DNASE:CD-1 c-Kit-positive CD71-positive TER-119-negative erythroid progenitor cells male embryo (14.5 days)
+9	ENCFF649DYS	dnase	.	9	2.0		32	mean	DNASE:CD-1 c-Kit-positive CD71-positive TER-119-positive erythroid progenitor cells male embryo (14.5 days)
+10	ENCFF680PQC	dnase	.	10	2.0		32	mean	DNASE:129 ES-CJ7
+11	ENCFF872IES	dnase	.	11	2.0		32	mean	DNASE:129 ES-E14
+12	ENCFF974BRL	dnase	.	12	2.0		32	mean	DNASE:mixed WW6
+13	ENCFF660XSJ	dnase	.	13	2.0		32	mean	DNASE:mixed WW6
+14	ENCFF391SPW	dnase	.	14	2.0		32	mean	DNASE:C57BL/6 fibroblast of lung male adult (8 weeks)
+15	ENCFF837OUY	dnase	.	15	2.0		32	mean	DNASE:CD-1 forelimb bud male embryo (11.5 days)
+16	ENCFF090NJT	dnase	.	16	2.0		32	mean	DNASE:C57BL/6 gonadal fat pad male adult (8 weeks)
+17	ENCFF227XDD	dnase	.	17	2.0		32	mean	DNASE:CD-1 embryo male embryo (11.5 days) depleted in head
+18	ENCFF773NKY	dnase	.	18	2.0		32	mean	DNASE:C57BL/6 heart male adult (8 weeks)
+19	ENCFF037VPV	dnase	.	19	2.0		32	mean	DNASE:CD-1 hindlimb bud male embryo (11.5 days)
+20	ENCFF561HSI	dnase	.	20	2.0		32	mean	DNASE:C57BL/6 kidney male adult (8 weeks)
+21	ENCFF650OFZ	dnase	.	21	2.0		32	mean	DNASE:C57BL/6 large intestine male adult (8 weeks)
+22	ENCFF395XSI	dnase	.	22	2.0		32	mean	DNASE:C57BL/6 liver male embryo (14.5 days)
+23	ENCFF906XJY	dnase	.	23	2.0		32	mean	DNASE:129 liver male embryo (14.5 days)
+24	ENCFF435WED	dnase	.	24	2.0		32	mean	DNASE:129 liver male embryo (14.5 days)
+25	ENCFF102MGA	dnase	.	25	2.0		32	mean	DNASE:C57BL/6 lung male adult (8 weeks)
+26	ENCFF990ATO	dnase	.	26	2.0		32	mean	DNASE:DBA/2 MEL cell line
+27	ENCFF673VVB	dnase	.	27	2.0		32	mean	DNASE:CD-1 mesoderm male embryo (11.5 days)
+28	ENCFF223QRV	dnase	.	28	2.0		32	mean	DNASE:DBA/2 MEL-GATA-1-ER
+29	ENCFF516XER	dnase	.	29	2.0		32	mean	DNASE:DBA/2 erythroblast originated from MEL-GATA-1-ER treated with 1 uM estradiol for 24 hours
+30	ENCFF178FCM	dnase	.	30	2.0		32	mean	DNASE:DBA/2 erythroblast originated from MEL-GATA-1-ER treated with 1 uM estradiol for 48 hours
+31	ENCFF950ALJ	dnase	.	31	2.0		32	mean	DNASE:NIH/Swiss NIH3T3
+32	ENCFF632WLC	dnase	.	32	2.0		32	mean	DNASE:M.spretus x C57BL/6J Patski
+33	ENCFF908NIP	dnase	.	33	2.0		32	mean	DNASE:C57BL/6 retina male postnatal (7 days)
+34	ENCFF261PZG	dnase	.	34	2.0		32	mean	DNASE:C57BL/6 retina male postnatal (1 day)
+35	ENCFF259ZNG	dnase	.	35	2.0		32	mean	DNASE:C57BL/6 retina male adult (8 weeks)
+36	ENCFF731YAA	dnase	.	36	2.0		32	mean	DNASE:C57BL/6 skeletal muscle tissue male adult (8 weeks)
+37	ENCFF546FZT	dnase	.	37	2.0		32	mean	DNASE:C57BL/6 spleen male adult (8 weeks)
+38	ENCFF896PZK	dnase	.	38	2.0		32	mean	DNASE:C57BL/6 CD4-positive helper T cell male adult (8 weeks)
+39	ENCFF540HLI	dnase	.	39	2.0		32	mean	DNASE:C57BL/6 thymus male adult (8 weeks)
+40	ENCFF242YCJ	dnase	.	40	2.0		32	mean	DNASE:C57BL/6 induced T-regulatory cell male adult (8 weeks)
+41	ENCFF992QCB	dnase	.	41	2.0		32	mean	DNASE:C57BL/6 brain male embryo (14.5 days)
+42	ENCFF257BKZ	dnase	.	42	2.0		32	mean	DNASE:C57BL/6 brain male adult (8 weeks)
+43	ENCFF333MPS	dnase	.	43	2.0		32	mean	DNASE:C57BL/6 brain male embryo (18.5 days)
+44	ENCFF424XOH	dnase	.	44	2.0		32	mean	DNASE:129 ZHBTc4-mESC
+45	ENCFF448ZJM	dnase	.	45	2.0		32	mean	DNASE:129 ZHBTc4-mESC treated with 100 ng/mL doxycycline hyclate for 24 hours
+46	ENCFF825ZVT	dnase	.	46	2.0		32	mean	DNASE:129 ZHBTc4-mESC treated with 100 ng/mL doxycycline hyclate for 6 hours
+47	ENCFF513QAB	dnase	.	47	2.0		32	mean	DNASE:C57BL/6 heart postnatal (0 days)
+48	ENCFF009ALP	dnase	.	48	2.0		32	mean	DNASE:C57BL/6 forebrain embryo (11.50 days)
+49	ENCFF299KAN	dnase	.	49	2.0		32	mean	DNASE:C57BL/6 kidney postnatal (0 days)
+50	ENCFF417SAZ	dnase	.	50	2.0		32	mean	DNASE:C57BL/6 lung postnatal (0 days)
+51	ENCFF829UGS	dnase	.	51	2.0		32	mean	DNASE:C57BL/6 embryo embryo (10.5 days)
+52	ENCFF107NBQ	dnase	.	52	2.0		32	mean	DNASE:C57BL/6 hindbrain embryo (14.5 days)
+53	ENCFF373NJX	dnase	.	53	2.0		32	mean	DNASE:C57BL/6 embryonic facial prominence embryo (11.5 days)
+54	ENCFF540VTK	dnase	.	54	2.0		32	mean	DNASE:C57BL/6 liver postnatal (0 days)
+55	ENCFF888LAZ	dnase	.	55	2.0		32	mean	DNASE:C57BL/6 hindbrain embryo (10.50 days)
+56	ENCFF906WCV	dnase	.	56	2.0		32	mean	DNASE:C57BL/6 midbrain embryo (11.5 days)
+57	ENCFF649UQO	dnase	.	57	2.0		32	mean	DNASE:C57BL/6 neural tube embryo (11.5 days)
+58	ENCFF729TAB	dnase	.	58	2.0		32	mean	DNASE:C57BL/6 R1
+59	ENCFF149TTQ	dnase	.	59	2.0		32	mean	DNASE:C57BL/6 forebrain embryo (14.5 days)
+60	ENCFF943PHW	dnase	.	60	2.0		32	mean	DNASE:C57BL/6 hindbrain embryo (11.5 days)
+61	ENCFF115OLL	dnase	.	61	2.0		32	mean	DNASE:C57BL/6 midbrain embryo (14.5 days)
+62	ENCFF963PGF	dnase	.	62	2.0		32	mean	DNASE:DBA/2 MEL cell line treated with 125 uM zinc dichloride for 24 hours
+63	ENCFF625SMQ	dnase	.	63	2.0		32	mean	DNASE:C57BL/6 limb embryo (10.50 days)
+64	ENCFF155MQS	dnase	.	64	2.0		32	mean	DNASE:DBA/2 MEL cell line
+65	ENCFF283WGI	dnase	.	65	2.0		32	mean	DNASE:C57BL/6 hindbrain postnatal (0 days)
+66	ENCFF266ZDD	dnase	.	66	2.0		32	mean	DNASE:C57BL/6 retina embryo (14.5 days)
+67	ENCFF076VZF	dnase	.	67	2.0		32	mean	DNASE:C57BL/6 liver embryo (11.50 days)
+68	ENCFF802BPW	dnase	.	68	2.0		32	mean	DNASE:C57BL/6 limb embryo (14.5 days)
+69	ENCFF622EDP	dnase	.	69	2.0		32	mean	DNASE:C57BL/6 intestine embryo (14.50 days)
+70	ENCFF945EBN	dnase	.	70	2.0		32	mean	DNASE:C57BL/6 neural tube embryo (10.50 days)
+71	ENCFF641OPE	dnase	.	71	2.0		32	mean	DNASE:C57BL/6 limb embryo (11.5 days)
+72	ENCFF586XFN	dnase	.	72	2.0		32	mean	DNASE:C57BL/6 Muller cell postnatal (12 days)
+73	ENCFF435DKT	dnase	.	73	2.0		32	mean	DNASE:C57BL/6 3T3-L1
+74	ENCFF363ULE	dnase	.	74	2.0		32	mean	DNASE:C57BL/6 embryo embryo (9.50 days)
+75	ENCFF894XDN	dnase	.	75	2.0		32	mean	DNASE:C57BL/6 embryo embryo (10 days)
+76	ENCFF919AUF	dnase	.	76	2.0		32	mean	DNASE:C57BL/6 MN1
+77	ENCFF043UNG	dnase	.	77	2.0		32	mean	DNASE:C57BL/6 lung embryo (14.5 days)
+78	ENCFF071TLE	dnase	.	78	2.0		32	mean	DNASE:C57BL/6 heart embryo (10.50 days)
+79	ENCFF247KMU	dnase	.	79	2.0		32	mean	DNASE:C57BL/6 forebrain embryo (10.50 days)
+80	ENCFF610ONZ	dnase	.	80	2.0		32	mean	DNASE:C57BL/6 midbrain postnatal (0 days)
+81	ENCFF327SCP	dnase	.	81	2.0		32	mean	DNASE:C57BL/6 midbrain embryo (10.50 days)
+82	ENCFF846VXR	dnase	.	82	2.0		32	mean	DNASE:C57BL/6 embryo embryo (11 day)
+83	ENCFF458SNJ	dnase	.	83	2.0		32	mean	DNASE:C57BL/6 embryonic facial prominence embryo (10.50 days)
+84	ENCFF684BQC	dnase	.	84	2.0		32	mean	DNASE:C57BL/6 forebrain postnatal (0 days)
+85	ENCFF014NWA	dnase	.	85	2.0		32	mean	DNASE:C57BL/6 acute myeloid leukemia
+86	ENCFF353HPD	dnase	.	86	2.0		32	mean	DNASE:C57BL/6 yolk sac embryo (10.50 days)
+87	ENCFF514HPX	dnase	.	87	2.0		32	mean	DNASE:C57BL/6 MN1 treated with 10 nM methyltrienolone
+88	ENCFF125IRZ	dnase	.	88	2.0		32	mean	DNASE:C57BL/6 thymus postnatal (0 days)
+89	ENCFF580UUE	dnase	.	89	2.0		32	mean	DNASE:C57BL/6 embryonic facial prominence embryo (14.5 days)
+90	ENCFF974HWL	dnase	.	90	2.0		32	mean	DNASE:C57BL/6 R1
+91	ENCFF197TQR	dnase	.	91	2.0		32	mean	DNASE:C57BL/6 stomach postnatal (0 days)
+92	ENCFF325RFB	dnase	.	92	2.0		32	mean	DNASE:C57BL/6 adipocyte
+93	GSM1479701	dnase	.	93	1.0		64	sum	DNASE:DNase ZT 2 WT / Liver, WT, ZT 2, DNase / .
+94	GSM1479702	dnase	.	94	1.0		64	sum	DNASE:DNase ZT 6 WT / Liver, WT, ZT 6, DNase / .
+95	GSM1479703	dnase	.	95	1.0		64	sum	DNASE:DNase ZT 10 WT / Liver, WT, ZT 10, DNase / .
+96	GSM1479704	dnase	.	96	1.0		64	sum	DNASE:DNase ZT 14 WT / Liver, WT, ZT 14, DNase / .
+97	GSM1479705	dnase	.	97	1.0		64	sum	DNASE:DNase ZT 18 WT / Liver, WT, ZT 18, DNase / .
+98	GSM1479706	dnase	.	98	1.0		64	sum	DNASE:DNase ZT 22 WT / Liver, WT, ZT 22, DNase / .
+99	GSM1479707	dnase	.	99	1.0		64	sum	DNASE:DNase ZT 26 WT / Liver, WT, ZT 26, DNase / .
+100	GSM1479708	dnase	.	100	1.0		64	sum	DNASE:DNase ZT 6 Bmal1 KO / Liver, Bmal1 KO, ZT 6, DNase / .
+0	ENCFF745RFR	atac	.	0	2.0		32	mean	ATAC:C57BL/6 hindbrain embryo (11.5 days)
+1	ENCFF446XWP	atac	.	1	2.0		32	mean	ATAC:C57BL/6 kidney embryo (15.5 days)
+2	ENCFF700IKY	atac	.	2	2.0		32	mean	ATAC:C57BL/6 megakaryocyte-erythroid progenitor cell male adult (5-6 weeks)
+3	ENCFF769BOR	atac	.	3	2.0		32	mean	ATAC:C57BL/6 intestine postnatal (0 days)
+4	ENCFF860QUH	atac	.	4	2.0		32	mean	ATAC:C57BL/6 hindbrain embryo (12.5 days)
+5	ENCFF242FBC	atac	.	5	2.0		32	mean	ATAC:C57BL/6 midbrain embryo (16.5 days)
+6	ENCFF823RLW	atac	.	6	2.0		32	mean	ATAC:C57BL/6 lung postnatal (0 days)
+7	ENCFF570DUW	atac	.	7	2.0		32	mean	ATAC:C57BL/6 erythroid progenitor cell male adult (5-6 weeks)
+8	ENCFF321AYT	atac	.	8	2.0		32	mean	ATAC:C57BL/6 hindbrain embryo (13.5 days)
+9	ENCFF517RIA	atac	.	9	2.0		32	mean	ATAC:C57BL/6 megakaryocyte progenitor cell male adult (5-6 weeks)
+10	ENCFF408OOS	atac	.	10	2.0		32	mean	ATAC:C57BL/6 granulocyte monocyte progenitor cell male adult (5-6 weeks)
+11	ENCFF060HRT	atac	.	11	2.0		32	mean	ATAC:C57BL/6 forebrain embryo (11.5 days)
+12	ENCFF731NRD	atac	.	12	2.0		32	mean	ATAC:C57BL/6 G1E
+13	ENCFF643SRL	atac	.	13	2.0		32	mean	ATAC:C57BL/6 liver embryo (12.5 days)
+14	ENCFF092DWB	atac	.	14	2.0		32	mean	ATAC:C57BL/6 forebrain postnatal (0 days)
+15	ENCFF609BWE	atac	.	15	2.0		32	mean	ATAC:C57BL/6 hindbrain postnatal (0 days)
+16	ENCFF161EJL	atac	.	16	2.0		32	mean	ATAC:C57BL/6 neutrophil adult (5-6 weeks)
+17	ENCFF683WEV	atac	.	17	2.0		32	mean	ATAC:C57BL/6 hematopoietic stem cell adult (5-6 weeks)
+18	ENCFF889QAK	atac	.	18	2.0		32	mean	ATAC:C57BL/6 midbrain embryo (11.5 days)
+19	ENCFF513ECX	atac	.	19	2.0		32	mean	ATAC:C57BL/6 G1E-ER4 treated with 10 nM 17B-estradiol for 24 hours
+20	ENCFF564GWQ	atac	.	20	2.0		32	mean	ATAC:C57BL/6 hematopoietic stem cell
+21	ENCFF190LKP	atac	.	21	2.0		32	mean	ATAC:C57BL/6 midbrain embryo (15.5 days)
+22	ENCFF047WUY	atac	.	22	2.0		32	mean	ATAC:C57BL/6 megakaryocyte male adult (5-6 weeks)
+23	ENCFF329SPM	atac	.	23	2.0		32	mean	ATAC:C57BL/6 cerebellum adult
+24	ENCFF917SGA	atac	.	24	2.0		32	mean	ATAC:C57BL/6 forebrain embryo (12.5 days)
+25	ENCFF238AZB	atac	.	25	2.0		32	mean	ATAC:C57BL/6 stomach postnatal (0 days)
+26	ENCFF770CQD	atac	.	26	2.0		32	mean	ATAC:C57BL/6 liver postnatal (0 days)
+27	ENCFF956ZAH	atac	.	27	2.0		32	mean	ATAC:C57BL/6 hindbrain embryo (16.5 days)
+28	ENCFF196PJB	atac	.	28	2.0		32	mean	ATAC:C57BL/6 kidney embryo (16.5 days)
+29	ENCFF331KWS	atac	.	29	2.0		32	mean	ATAC:C57BL/6 liver embryo (11.5 days)
+30	ENCFF321OJD	atac	.	30	2.0		32	mean	ATAC:C57BL/6 erythroblast male adult (5-6 weeks)
+31	ENCFF845NRJ	atac	.	31	2.0		32	mean	ATAC:C57BL/6 forebrain embryo (14.5 days)
+32	ENCFF810TCB	atac	.	32	2.0		32	mean	ATAC:C57BL/6 midbrain embryo (13.5 days)
+33	ENCFF960LTM	atac	.	33	2.0		32	mean	ATAC:C57BL/6 forebrain embryo (16.5 days)
+34	ENCFF320TGF	atac	.	34	2.0		32	mean	ATAC:C57BL/6 monocyte adult (5-6 weeks)
+35	ENCFF878HWK	atac	.	35	2.0		32	mean	ATAC:C57BL/6 frontal cortex adult
+36	ENCFF654YSF	atac	.	36	2.0		32	mean	ATAC:C57BL/6 forebrain embryo (13.5 days)
+37	ENCFF705VCO	atac	.	37	2.0		32	mean	ATAC:C57BL/6 common myeloid progenitor male adult (5-6 weeks)
+38	ENCFF114TFO	atac	.	38	2.0		32	mean	ATAC:C57BL/6 intestine embryo (15.5 days)
+39	ENCFF258MGU	atac	.	39	2.0		32	mean	ATAC:C57BL/6 intestine embryo (16.5 days)
+40	ENCFF487YTM	atac	.	40	2.0		32	mean	ATAC:C57BL/6 forebrain embryo (15.5 days)
+41	ENCFF309CAW	atac	.	41	2.0		32	mean	ATAC:C57BL/6 neural tube embryo (15.5 days)
+42	UW1.1	atac	.	42	4.0		32	mean	ATAC:Unknown-clusters_1-cluster_1
+43	UW1.2	atac	.	43	4.0		32	mean	ATAC:Unknown-clusters_1-cluster_2
+44	UW1.3	atac	.	44	4.0		32	mean	ATAC:Unknown-clusters_1-cluster_3
+45	UW10.1	atac	.	45	4.0		32	mean	ATAC:Hematopoietic_progenitors-clusters_10-cluster_1
+46	UW11.1	atac	.	46	4.0		32	mean	ATAC:Proximal_tubule-clusters_11-cluster_1
+47	UW11.2	atac	.	47	4.0		32	mean	ATAC:Proximal_tubule-clusters_11-cluster_2
+48	UW11.3	atac	.	48	4.0		32	mean	ATAC:Proximal_tubule-clusters_11-cluster_3
+49	UW11.4	atac	.	49	4.0		32	mean	ATAC:Proximal_tubule_S3-clusters_11-cluster_4
+50	UW11.5	atac	.	50	4.0		32	mean	ATAC:Proximal_tubule-clusters_11-cluster_5
+51	UW12.1	atac	.	51	4.0		32	mean	ATAC:T_cells-clusters_12-cluster_1
+52	UW12.2	atac	.	52	4.0		32	mean	ATAC:Regulatory_T_cells-clusters_12-cluster_2
+53	UW12.3	atac	.	53	4.0		32	mean	ATAC:NK_cells-clusters_12-cluster_3
+54	UW12.4	atac	.	54	4.0		32	mean	ATAC:T_cells-clusters_12-cluster_4
+55	UW12.5	atac	.	55	4.0		32	mean	ATAC:T_cells-clusters_12-cluster_5
+56	UW13.1	atac	.	56	4.0		32	mean	ATAC:Erythroblasts-clusters_13-cluster_1
+57	UW14.1	atac	.	57	4.0		32	mean	ATAC:Sperm-clusters_14-cluster_1
+58	UW14.2	atac	.	58	4.0		32	mean	ATAC:Sperm-clusters_14-cluster_2
+59	UW14.3	atac	.	59	4.0		32	mean	ATAC:Sperm-clusters_14-cluster_3
+60	UW15.1	atac	.	60	4.0		32	mean	ATAC:Inhibitory_neurons-clusters_15-cluster_1
+61	UW15.2	atac	.	61	4.0		32	mean	ATAC:Inhibitory_neurons-clusters_15-cluster_2
+62	UW15.3	atac	.	62	4.0		32	mean	ATAC:SOM+_Interneurons-clusters_15-cluster_3
+63	UW16.1	atac	.	63	4.0		32	mean	ATAC:B_cells-clusters_16-cluster_1
+64	UW16.2	atac	.	64	4.0		32	mean	ATAC:Macrophages-clusters_16-cluster_2
+65	UW16.3	atac	.	65	4.0		32	mean	ATAC:Microglia-clusters_16-cluster_3
+66	UW17.1	atac	.	66	4.0		32	mean	ATAC:Dendritic_cells-clusters_17-cluster_1
+67	UW17.2	atac	.	67	4.0		32	mean	ATAC:Alveolar_macrophages-clusters_17-cluster_2
+68	UW17.3	atac	.	68	4.0		32	mean	ATAC:Dendritic_cells-clusters_17-cluster_3
+69	UW17.4	atac	.	69	4.0		32	mean	ATAC:Collisions-clusters_17-cluster_4
+70	UW17.5	atac	.	70	4.0		32	mean	ATAC:Collisions-clusters_17-cluster_5
+71	UW18.1	atac	.	71	4.0		32	mean	ATAC:DCT_CD-clusters_18-cluster_1
+72	UW18.2	atac	.	72	4.0		32	mean	ATAC:Loop_of_henle-clusters_18-cluster_2
+73	UW18.3	atac	.	73	4.0		32	mean	ATAC:Loop_of_henle-clusters_18-cluster_3
+74	UW18.4	atac	.	74	4.0		32	mean	ATAC:Distal_convoluted_tubule-clusters_18-cluster_4
+75	UW18.5	atac	.	75	4.0		32	mean	ATAC:Collecting_duct-clusters_18-cluster_5
+76	UW19.1	atac	.	76	4.0		32	mean	ATAC:Astrocytes-clusters_19-cluster_1
+77	UW19.2	atac	.	77	4.0		32	mean	ATAC:Astrocytes-clusters_19-cluster_2
+78	UW19.3	atac	.	78	4.0		32	mean	ATAC:Astrocytes-clusters_19-cluster_3
+79	UW19.4	atac	.	79	4.0		32	mean	ATAC:Astrocytes-clusters_19-cluster_4
+80	UW2.1	atac	.	80	4.0		32	mean	ATAC:T_cells-clusters_2-cluster_1
+81	UW20.1	atac	.	81	4.0		32	mean	ATAC:Type_I_pneumocytes-clusters_20-cluster_1
+82	UW21.1	atac	.	82	4.0		32	mean	ATAC:Oligodendrocytes-clusters_21-cluster_1
+83	UW21.2	atac	.	83	4.0		32	mean	ATAC:Oligodendrocytes-clusters_21-cluster_2
+84	UW22.1	atac	.	84	4.0		32	mean	ATAC:Endothelial_I_cells-clusters_22-cluster_1
+85	UW22.2	atac	.	85	4.0		32	mean	ATAC:Endothelial_I_(glomerular)-clusters_22-cluster_2
+86	UW22.3	atac	.	86	4.0		32	mean	ATAC:Endothelial_I_cells-clusters_22-cluster_3
+87	UW22.4	atac	.	87	4.0		32	mean	ATAC:Endothelial_I_cells-clusters_22-cluster_4
+88	UW23.1	atac	.	88	4.0		32	mean	ATAC:Endothelial_II_cells-clusters_23-cluster_1
+89	UW23.2	atac	.	89	4.0		32	mean	ATAC:Unknown-clusters_23-cluster_2
+90	UW24.1	atac	.	90	4.0		32	mean	ATAC:Monocytes-clusters_24-cluster_1
+91	UW24.2	atac	.	91	4.0		32	mean	ATAC:Monocytes-clusters_24-cluster_2
+92	UW25.1	atac	.	92	4.0		32	mean	ATAC:Podocytes-clusters_25-cluster_1
+93	UW25.2	atac	.	93	4.0		32	mean	ATAC:Endothelial_II_cells-clusters_25-cluster_2
+94	UW25.3	atac	.	94	4.0		32	mean	ATAC:Endothelial_II_cells-clusters_25-cluster_3
+95	UW26.1	atac	.	95	4.0		32	mean	ATAC:T_cells-clusters_26-cluster_1
+96	UW26.2	atac	.	96	4.0		32	mean	ATAC:Collisions-clusters_26-cluster_2
+97	UW26.3	atac	.	97	4.0		32	mean	ATAC:Collisions-clusters_26-cluster_3
+98	UW27.1	atac	.	98	4.0		32	mean	ATAC:Purkinje_cells-clusters_27-cluster_1
+99	UW27.2	atac	.	99	4.0		32	mean	ATAC:Collisions-clusters_27-cluster_2
+100	UW27.3	atac	.	100	4.0		32	mean	ATAC:Collisions-clusters_27-cluster_3
+101	UW28.1	atac	.	101	4.0		32	mean	ATAC:Immature_B_cells-clusters_28-cluster_1
+102	UW28.2	atac	.	102	4.0		32	mean	ATAC:Immature_B_cells-clusters_28-cluster_2
+103	UW29.1	atac	.	103	4.0		32	mean	ATAC:Ex_neurons_SCPN-clusters_29-cluster_1
+104	UW3.1	atac	.	104	4.0		32	mean	ATAC:Hepatocytes-clusters_3-cluster_1
+105	UW30.1	atac	.	105	4.0		32	mean	ATAC:Type_II_pneumocytes-clusters_30-cluster_1
+106	UW30.2	atac	.	106	4.0		32	mean	ATAC:Unknown-clusters_30-cluster_2
+107	UW30.3	atac	.	107	4.0		32	mean	ATAC:Collisions-clusters_30-cluster_3
+108	UW30.4	atac	.	108	4.0		32	mean	ATAC:Unknown-clusters_30-cluster_4
+109	UW4.1	atac	.	109	4.0		32	mean	ATAC:B_cells-clusters_4-cluster_1
+110	UW4.2	atac	.	110	4.0		32	mean	ATAC:B_cells-clusters_4-cluster_2
+111	UW4.3	atac	.	111	4.0		32	mean	ATAC:B_cells-clusters_4-cluster_3
+112	UW4.4	atac	.	112	4.0		32	mean	ATAC:Activated_B_cells-clusters_4-cluster_4
+113	UW5.1	atac	.	113	4.0		32	mean	ATAC:Ex_neurons_CPN-clusters_5-cluster_1
+114	UW5.2	atac	.	114	4.0		32	mean	ATAC:Ex_neurons_SCPN-clusters_5-cluster_2
+115	UW5.3	atac	.	115	4.0		32	mean	ATAC:Ex_neurons_CThPN-clusters_5-cluster_3
+116	UW5.4	atac	.	116	4.0		32	mean	ATAC:Ex_neurons_CThPN-clusters_5-cluster_4
+117	UW5.5	atac	.	117	4.0		32	mean	ATAC:Inhibitory_neurons-clusters_5-cluster_5
+118	UW5.6	atac	.	118	4.0		32	mean	ATAC:Unknown-clusters_5-cluster_6
+119	UW6.1	atac	.	119	4.0		32	mean	ATAC:Enterocytes-clusters_6-cluster_1
+120	UW7.1	atac	.	120	4.0		32	mean	ATAC:Cardiomyocytes-clusters_7-cluster_1
+121	UW7.2	atac	.	121	4.0		32	mean	ATAC:Unknown-clusters_7-cluster_2
+122	UW8.1	atac	.	122	4.0		32	mean	ATAC:Cerebellar_granule_cells-clusters_8-cluster_1
+123	UW8.2	atac	.	123	4.0		32	mean	ATAC:Cerebellar_granule_cells-clusters_8-cluster_2
+124	UW9.1	atac	.	124	4.0		32	mean	ATAC:Unknown-clusters_9-cluster_1
+125	UW9.2	atac	.	125	4.0		32	mean	ATAC:Endothelial_II_cells-clusters_9-cluster_2
+126	UW9.3	atac	.	126	4.0		32	mean	ATAC:Endothelial_II_cells-clusters_9-cluster_3
+127	yangli1	atac	.	127	0.01		96	sum	ATAC:ASCG
+128	yangli10	atac	.	128	0.01		96	sum	ATAC:CA3GL4
+129	yangli100	atac	.	129	0.01		96	sum	ATAC:OBGL1
+130	yangli101	atac	.	130	0.01		96	sum	ATAC:OBGL2
+131	yangli102	atac	.	131	0.01		96	sum	ATAC:OBGL3
+132	yangli103	atac	.	132	0.01		96	sum	ATAC:OBGL4
+133	yangli104	atac	.	133	0.01		96	sum	ATAC:OBGL5
+134	yangli105	atac	.	134	0.01		96	sum	ATAC:OBNBL
+135	yangli106	atac	.	135	0.01		96	sum	ATAC:OLFGL1
+136	yangli107	atac	.	136	0.01		96	sum	ATAC:OLFGL2
+137	yangli108	atac	.	137	0.01		96	sum	ATAC:OLFGL3
+138	yangli109	atac	.	138	0.01		96	sum	ATAC:OLFGL4
+139	yangli11	atac	.	139	0.01		96	sum	ATAC:CA3GL5
+140	yangli110	atac	.	140	0.01		96	sum	ATAC:OLFGL5
+141	yangli111	atac	.	141	0.01		96	sum	ATAC:OLFGL6
+142	yangli112	atac	.	142	0.01		96	sum	ATAC:OLFGL7
+143	yangli113	atac	.	143	0.01		96	sum	ATAC:OPC
+144	yangli114	atac	.	144	0.01		96	sum	ATAC:PER
+145	yangli115	atac	.	145	0.01		96	sum	ATAC:PIRGL
+146	yangli116	atac	.	146	0.01		96	sum	ATAC:PTGL1
+147	yangli117	atac	.	147	0.01		96	sum	ATAC:PTGL2
+148	yangli118	atac	.	148	0.01		96	sum	ATAC:PTGL3
+149	yangli119	atac	.	149	0.01		96	sum	ATAC:PTGL4
+150	yangli12	atac	.	150	0.01		96	sum	ATAC:CA3GL6
+151	yangli120	atac	.	151	0.01		96	sum	ATAC:PTGL5
+152	yangli121	atac	.	152	0.01		96	sum	ATAC:PTGL6
+153	yangli122	atac	.	153	0.01		96	sum	ATAC:PTGL7
+154	yangli123	atac	.	154	0.01		96	sum	ATAC:PTGL8
+155	yangli124	atac	.	155	0.01		96	sum	ATAC:PVGA1
+156	yangli125	atac	.	156	0.01		96	sum	ATAC:PVGA2
+157	yangli126	atac	.	157	0.01		96	sum	ATAC:PVGA3
+158	yangli127	atac	.	158	0.01		96	sum	ATAC:PVGA4
+159	yangli128	atac	.	159	0.01		96	sum	ATAC:PVGA5
+160	yangli129	atac	.	160	0.01		96	sum	ATAC:PVGA6
+161	yangli13	atac	.	161	0.01		96	sum	ATAC:CLAGL1
+162	yangli130	atac	.	162	0.01		96	sum	ATAC:PVGA7
+163	yangli131	atac	.	163	0.01		96	sum	ATAC:PVM
+164	yangli132	atac	.	164	0.01		96	sum	ATAC:RGDG
+165	yangli133	atac	.	165	0.01		96	sum	ATAC:RGSZ
+166	yangli134	atac	.	166	0.01		96	sum	ATAC:SSTGA1
+167	yangli135	atac	.	167	0.01		96	sum	ATAC:SSTGA10
+168	yangli136	atac	.	168	0.01		96	sum	ATAC:SSTGA2
+169	yangli137	atac	.	169	0.01		96	sum	ATAC:SSTGA3
+170	yangli138	atac	.	170	0.01		96	sum	ATAC:SSTGA4
+171	yangli139	atac	.	171	0.01		96	sum	ATAC:SSTGA5
+172	yangli14	atac	.	172	0.01		96	sum	ATAC:CLAGL2
+173	yangli140	atac	.	173	0.01		96	sum	ATAC:SSTGA6
+174	yangli141	atac	.	174	0.01		96	sum	ATAC:SSTGA7
+175	yangli142	atac	.	175	0.01		96	sum	ATAC:SSTGA8
+176	yangli143	atac	.	176	0.01		96	sum	ATAC:SSTGA9
+177	yangli144	atac	.	177	0.01		96	sum	ATAC:STRGA1
+178	yangli145	atac	.	178	0.01		96	sum	ATAC:STRGA2
+179	yangli146	atac	.	179	0.01		96	sum	ATAC:STRGA3
+180	yangli147	atac	.	180	0.01		96	sum	ATAC:STRGA4
+181	yangli148	atac	.	181	0.01		96	sum	ATAC:STRGA5
+182	yangli149	atac	.	182	0.01		96	sum	ATAC:STRGA6
+183	yangli15	atac	.	183	0.01		96	sum	ATAC:CLAGL3
+184	yangli150	atac	.	184	0.01		96	sum	ATAC:VEC
+185	yangli151	atac	.	185	0.01		96	sum	ATAC:VIPGA1
+186	yangli152	atac	.	186	0.01		96	sum	ATAC:VIPGA2
+187	yangli153	atac	.	187	0.01		96	sum	ATAC:VIPGA3
+188	yangli154	atac	.	188	0.01		96	sum	ATAC:VIPGA4
+189	yangli155	atac	.	189	0.01		96	sum	ATAC:VLMC1
+190	yangli156	atac	.	190	0.01		96	sum	ATAC:VLMC2
+191	yangli157	atac	.	191	0.01		96	sum	ATAC:VLMC3
+192	yangli158	atac	.	192	0.01		96	sum	ATAC:VPIA1
+193	yangli159	atac	.	193	0.01		96	sum	ATAC:VPIA2
+194	yangli16	atac	.	194	0.01		96	sum	ATAC:CNUGA
+195	yangli160	atac	.	195	0.01		96	sum	ATAC:VPIA3
+196	yangli17	atac	.	196	0.01		96	sum	ATAC:COP
+197	yangli18	atac	.	197	0.01		96	sum	ATAC:CRC
+198	yangli19	atac	.	198	0.01		96	sum	ATAC:CTGL1
+199	yangli2	atac	.	199	0.01		96	sum	ATAC:ASCN
+200	yangli20	atac	.	200	0.01		96	sum	ATAC:CTGL2
+201	yangli21	atac	.	201	0.01		96	sum	ATAC:CTGL3
+202	yangli22	atac	.	202	0.01		96	sum	ATAC:CTGL4
+203	yangli23	atac	.	203	0.01		96	sum	ATAC:CTGL5
+204	yangli24	atac	.	204	0.01		96	sum	ATAC:CTGL6
+205	yangli25	atac	.	205	0.01		96	sum	ATAC:D1MSN1
+206	yangli26	atac	.	206	0.01		96	sum	ATAC:D1MSN2
+207	yangli27	atac	.	207	0.01		96	sum	ATAC:D1MSN3
+208	yangli28	atac	.	208	0.01		96	sum	ATAC:D1MSN4
+209	yangli29	atac	.	209	0.01		96	sum	ATAC:D1MSN5
+210	yangli3	atac	.	210	0.01		96	sum	ATAC:ASCW
+211	yangli30	atac	.	211	0.01		96	sum	ATAC:D2MSN1
+212	yangli31	atac	.	212	0.01		96	sum	ATAC:D2MSN2
+213	yangli32	atac	.	213	0.01		96	sum	ATAC:D2MSN3
+214	yangli33	atac	.	214	0.01		96	sum	ATAC:D2MSN4
+215	yangli34	atac	.	215	0.01		96	sum	ATAC:DGGR
+216	yangli35	atac	.	216	0.01		96	sum	ATAC:DGNBL1
+217	yangli36	atac	.	217	0.01		96	sum	ATAC:DGNBL2
+218	yangli37	atac	.	218	0.01		96	sum	ATAC:DGNBL3
+219	yangli38	atac	.	219	0.01		96	sum	ATAC:ITHGL1
+220	yangli39	atac	.	220	0.01		96	sum	ATAC:ITHGL2
+221	yangli4	atac	.	221	0.01		96	sum	ATAC:CA1GL1
+222	yangli40	atac	.	222	0.01		96	sum	ATAC:ITHGL3
+223	yangli41	atac	.	223	0.01		96	sum	ATAC:ITL23GL1
+224	yangli42	atac	.	224	0.01		96	sum	ATAC:ITL23GL2
+225	yangli43	atac	.	225	0.01		96	sum	ATAC:ITL23GL3
+226	yangli44	atac	.	226	0.01		96	sum	ATAC:ITL4GL1
+227	yangli45	atac	.	227	0.01		96	sum	ATAC:ITL4GL2
+228	yangli46	atac	.	228	0.01		96	sum	ATAC:ITL5GL1
+229	yangli47	atac	.	229	0.01		96	sum	ATAC:ITL5GL2
+230	yangli48	atac	.	230	0.01		96	sum	ATAC:ITL5GL3
+231	yangli49	atac	.	231	0.01		96	sum	ATAC:ITL6GL1
+232	yangli5	atac	.	232	0.01		96	sum	ATAC:CA1GL2
+233	yangli50	atac	.	233	0.01		96	sum	ATAC:ITL6GL2
+234	yangli51	atac	.	234	0.01		96	sum	ATAC:ITL6GL3
+235	yangli52	atac	.	235	0.01		96	sum	ATAC:ITL6GL4
+236	yangli53	atac	.	236	0.01		96	sum	ATAC:ITL6GL5
+237	yangli54	atac	.	237	0.01		96	sum	ATAC:ITL6GL6
+238	yangli55	atac	.	238	0.01		96	sum	ATAC:L6bGL1
+239	yangli56	atac	.	239	0.01		96	sum	ATAC:L6bGL2
+240	yangli57	atac	.	240	0.01		96	sum	ATAC:L6bGL3
+241	yangli58	atac	.	241	0.01		96	sum	ATAC:L6bGL4
+242	yangli59	atac	.	242	0.01		96	sum	ATAC:L6bGL5
+243	yangli6	atac	.	243	0.01		96	sum	ATAC:CA1GL3
+244	yangli60	atac	.	244	0.01		96	sum	ATAC:L6bGL6
+245	yangli61	atac	.	245	0.01		96	sum	ATAC:LAMGA1
+246	yangli62	atac	.	246	0.01		96	sum	ATAC:LAMGA2
+247	yangli63	atac	.	247	0.01		96	sum	ATAC:LAMGA3
+248	yangli64	atac	.	248	0.01		96	sum	ATAC:LAMGA4
+249	yangli65	atac	.	249	0.01		96	sum	ATAC:LSXGA1
+250	yangli66	atac	.	250	0.01		96	sum	ATAC:LSXGA2
+251	yangli67	atac	.	251	0.01		96	sum	ATAC:LSXGA3
+252	yangli68	atac	.	252	0.01		96	sum	ATAC:LSXGA4
+253	yangli69	atac	.	253	0.01		96	sum	ATAC:LSXGA5
+254	yangli7	atac	.	254	0.01		96	sum	ATAC:CA3GL1
+255	yangli70	atac	.	255	0.01		96	sum	ATAC:LSXGA6
+256	yangli71	atac	.	256	0.01		96	sum	ATAC:LSXGA7
+257	yangli72	atac	.	257	0.01		96	sum	ATAC:MFOL
+258	yangli73	atac	.	258	0.01		96	sum	ATAC:MGL
+259	yangli74	atac	.	259	0.01		96	sum	ATAC:MOL
+260	yangli75	atac	.	260	0.01		96	sum	ATAC:MSGA1
+261	yangli76	atac	.	261	0.01		96	sum	ATAC:MSGA10
+262	yangli77	atac	.	262	0.01		96	sum	ATAC:MSGA11
+263	yangli78	atac	.	263	0.01		96	sum	ATAC:MSGA12
+264	yangli79	atac	.	264	0.01		96	sum	ATAC:MSGA13
+265	yangli8	atac	.	265	0.01		96	sum	ATAC:CA3GL2
+266	yangli80	atac	.	266	0.01		96	sum	ATAC:MSGA2
+267	yangli81	atac	.	267	0.01		96	sum	ATAC:MSGA3
+268	yangli82	atac	.	268	0.01		96	sum	ATAC:MSGA4
+269	yangli83	atac	.	269	0.01		96	sum	ATAC:MSGA5
+270	yangli84	atac	.	270	0.01		96	sum	ATAC:MSGA6
+271	yangli85	atac	.	271	0.01		96	sum	ATAC:MSGA7
+272	yangli86	atac	.	272	0.01		96	sum	ATAC:MSGA8
+273	yangli87	atac	.	273	0.01		96	sum	ATAC:MSGA9
+274	yangli88	atac	.	274	0.01		96	sum	ATAC:MXD
+275	yangli89	atac	.	275	0.01		96	sum	ATAC:NFOL
+276	yangli9	atac	.	276	0.01		96	sum	ATAC:CA3GL3
+277	yangli90	atac	.	277	0.01		96	sum	ATAC:NIPC
+278	yangli91	atac	.	278	0.01		96	sum	ATAC:NPGL1
+279	yangli92	atac	.	279	0.01		96	sum	ATAC:NPGL2
+280	yangli93	atac	.	280	0.01		96	sum	ATAC:NPGL3
+281	yangli94	atac	.	281	0.01		96	sum	ATAC:NPGL4
+282	yangli95	atac	.	282	0.01		96	sum	ATAC:NPGL5
+283	yangli96	atac	.	283	0.01		96	sum	ATAC:OBDOP1
+284	yangli97	atac	.	284	0.01		96	sum	ATAC:OBDOP2
+285	yangli98	atac	.	285	0.01		96	sum	ATAC:OBGA1
+286	yangli99	atac	.	286	0.01		96	sum	ATAC:OBGA2

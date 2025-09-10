@@ -1,0 +1,17 @@
+name: flash_rna
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - einops=0.8.1
+  - jaxtyping=0.2.36
+  - pandas=2.2.3
+  - pip
+  - python=3.12
+  - tqdm
+  - wandb
+  - pip:
+    - torch==2.8.0
+    - flash-attn==2.8.3  # try commenting this out and install separately if there are issues
+    - lightning==2.5.3
+    - jsonargparse[signatures]==4.40.2

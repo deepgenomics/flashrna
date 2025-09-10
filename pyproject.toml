@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=64.0.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "flashrna"
+version = "1.0"
+description = "FlashRNA"
+authors = [
+    {name = "Andrew Jung", email = "andrew.jung@deepgenomics.com"},
+]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []  # Leave empty if using conda for dependency management
+
+[project.urls]
+Homepage = "https://github.com/deepgenomics/flashrna_internal"
+
+[tool.setuptools]
+packages = ["flash_rna"]
