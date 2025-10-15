@@ -63,16 +63,18 @@ Please contact andrew.jung (at) deepgenomics.com, andrewjung (at) psi.toronto.ed
 
 ## Preprint and Citation
 
-We will be releasing a preprint shortly. In the meanwhile, please cite this repo if you use it in your work.
+To help understand FlashRNA, we are sharing a short preprint: https://www.biorxiv.org/content/10.1101/2025.10.14.682350v1
+
+We will be sharing an updated version with more details soon!
 
 ```
-@misc{flashrna2025,
-  author       = {Andrew J. Jung, and contributors},
-  title        = {FlashRNA - An Efficient Model for Regulatory Genomics},
-  year         = {2025},
-  howpublished = {\url{https://github.com/deepgenomics/flashrna_internal}},
-  note         = {Efficient genomic sequence-to-function model with FlashAttention and additional optimizations in model architecture and training setup.},
-  abstract     = {FlashRNA significantly improves computational and memory efficiency through FlashAttention, advancements in model architecture, and optimized training setup. This efficiency comes at no cost to performance or dependency on pretrained weights. Trained from scratch, FlashRNA achieves comparable or slightly improved predictive performance compared to similar-sized models.},
+@article {Jung2025.10.14.682350,
+        author = {Jung, Andrew J and Zhu, Helen and Gao, Alice J and Li, Roujia and Slobodyanyuk, Mykhaylo and Chu, Vivian and Lim, Declan and Lee, Leo J and Celaj, Albi and Frey, Brendan J},
+        title = {FlashRNA: An Efficient Model for Regulatory Genomics},
+        elocation-id = {2025.10.14.682350},
+        year = {2025},
+        doi = {10.1101/2025.10.14.682350},
+        publisher = {Cold Spring Harbor Laboratory},
 }
 ```
 
